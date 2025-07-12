@@ -1,5 +1,3 @@
-# Fact Verification with GPT-3.5-turbo
-
 ## Setup
 
 ```bash
